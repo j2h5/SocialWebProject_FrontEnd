@@ -1,0 +1,10 @@
+div.Weather {
+  position: absolute;
+  top: 2px;
+  right: 60px;
+}
+div.Weather h2 {
+  display: inline-block;
+  font-family: 'Noto Sans Kr';
+  font-size: 18px;
+}

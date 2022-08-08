@@ -1,0 +1,23 @@
+[
+  {
+    "user": "admin",
+    "profile_image": "https://s3.ap-northeast-2.amazonaws.com/taling.me/Content/Uploads/Profile/s_df6b337998425bb61eb25e7e55e97c1a68d43bc7.jpeg",
+    "content": "sdasdsadasdasdasdasdasdsadasdasdasdadasdasdasdasdasdasdasdasdsssadasdadasdasdadasdasdasdsdfadsfs",
+    "create": "2022-04-14 T04:15:21.963Z",
+    "review_image": "https://s3.ap-northeast-2.amazonaws.com/taling.me/Content/Uploads/Profile/s_df6b337998425bb61eb25e7e55e97c1a68d43bc7.jpeg"
+  },
+  {
+    "user": "admin",
+    "profile_image": "https://s3.ap-northeast-2.amazonaws.com/taling.me/Content/Uploads/Profile/s_df6b337998425bb61eb25e7e55e97c1a68d43bc7.jpeg",
+    "review_image": "https://s3.ap-northeast-2.amazonaws.com/taling.me/Content/Uploads/Profile/s_df6b337998425bb61eb25e7e55e97c1a68d43bc7.jpeg",
+    "content": "정말 유익한 강의입니다!",
+    "create": "2022-04-14 T04:15:21.963Z"
+  },
+  {
+    "user": "admin",
+    "profile_image": "https://s3.ap-northeast-2.amazonaws.com/taling.me/Content/Uploads/Profile/s_df6b337998425bb61eb25e7e55e97c1a68d43bc7.jpeg",
+    "review_image": "https://s3.ap-northeast-2.amazonaws.com/taling.me/Content/Uploads/Profile/s_df6b337998425bb61eb25e7e55e97c1a68d43bc7.jpeg",
+    "content": "정말 유익한 강의입니다!",
+    "create": "2022-04-14 T04:15:21.963Z"
+  }
+]

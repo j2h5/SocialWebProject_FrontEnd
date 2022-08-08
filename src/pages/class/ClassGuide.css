@@ -1,0 +1,46 @@
+.classguideimg {
+  position: absolute;
+}
+
+.classlogo {
+  position: relative;
+  left: 150px;
+  top: 200px;
+  border-radius: 20px;
+  background-color: rgb(0, 1, 83);
+  box-shadow: 5px 5px rgb(196, 196, 196);
+  color: white;
+  text-align: center;
+  line-height: 37px;
+  font-size: 30px;
+  padding-top: 33px;
+}
+
+.guidecontent {
+  position: relative;
+  left: 150px;
+  top: 200px;
+  border: 0px solid gray;
+  width: 1500px;
+  margin: 30px 0 0;
+  color: black;
+  font-size: 30px;
+}
+.guidetitle {
+  border: 0px solid gray;
+  width: 1500px;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.guidetitle1 {
+  border: 0px solid gray;
+  width: 1040px;
+  color: black;
+  font-size: 28px;
+  font-weight: 500;
+  margin-left: 280px;
+  margin-bottom: 30px;
+  margin-top: -70px;
+}

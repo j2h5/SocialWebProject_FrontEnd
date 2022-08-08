@@ -1,0 +1,31 @@
+.detail_pro {
+  font-size: 40px;
+}
+
+.detail_proname {
+  font-size: 25px;
+  text-align: center;
+  color: rgb(70, 70, 70);
+}
+
+.detail_priority {
+  font-size: 40px;
+  text-align: left;
+}
+
+.detail_priorityname {
+  font-size: 23px;
+  text-align: center;
+  color: rgb(70, 70, 70);
+}
+
+.detail_data {
+  font-size: 40px;
+  text-align: left;
+}
+
+.detail_dataname {
+  font-size: 23px;
+  text-align: center;
+  color: rgb(70, 70, 70);
+}

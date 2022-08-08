@@ -1,0 +1,34 @@
+{
+  "message": {
+    "title": "\ubca0\uc778\uc564\ucef4\ud37c\ub2c8 \ucd9c\uc2e0\uc758 \ub17c\ub9ac\uc801\uc73c\ub85c \uc77c\ud558\ub294 \ubc95",
+    "thumbnail": "https://img.taling.me/Content/Uploads/Cover/s_ee9525b413a26da63c0ad63f67e79fa08bdb3f88.png",
+    "price": "10000.00",
+    "notice": "text",
+    "summary": "text",
+    "recommendation": "text",
+    "schedule": "월",
+    "region": "선릉",
+    "images": [
+      {
+        "image": "https://bbooingimage.s3.ap-northeast-2.amazonaws.com/lecture_images/car.jpg"
+      },
+      {
+        "image": "https://bbooingimage.s3.ap-northeast-2.amazonaws.com/lecture_images/house.jpg"
+      },
+      {
+        "image": "https://bbooingimage.s3.ap-northeast-2.amazonaws.com/lecture_images/life.jpg"
+      },
+      {
+        "image": "https://bbooingimage.s3.ap-northeast-2.amazonaws.com/lecture_images/tree.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "user": "admin",
+        "profile_image": "https://media.istockphoto.com/photos/cute-blue-robot-giving-thumbs-up-3d-picture-id1350820098?b=1&k=20&m=1350820098&s=170667a&w=0&h=8gO4GcPH-wsEZS6PYn2WXbQN3ZPPv98vE6mBl-Ckwr8=",
+        "content": "\uc815\ub9d0 \uc720\uc775\ud55c \uac15\uc758\uc785\ub2c8\ub2e4!",
+        "create": "2022-04-14T04:15:21.963Z"
+      }
+    ]
+  }
+}

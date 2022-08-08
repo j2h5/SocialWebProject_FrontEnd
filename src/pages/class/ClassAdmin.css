@@ -1,0 +1,25 @@
+.admin {
+  clear: both;
+  width: 1300px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.admin tr {
+  height: 60px;
+  margin-bottom: 10px;
+}
+
+.admin tr th {
+  border-bottom: 3px solid black;
+  text-align: center;
+}
+
+.tyty {
+  font-family: 'Jua';
+}
+
+.admin td {
+  font-size: 18px;
+  padding: 10px 10px;
+}

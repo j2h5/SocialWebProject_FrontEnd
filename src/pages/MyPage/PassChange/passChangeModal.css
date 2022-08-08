@@ -1,0 +1,107 @@
+.passchange_wrapper {
+}
+.passchange_box {
+  width: 600px;
+  margin-top: -10px;
+  margin-left: 40px;
+}
+
+.int-area2 {
+  width: 350px;
+  position: relative;
+  margin-top: 0px;
+}
+.int-area2:first-child {
+  margin-top: 0;
+}
+.int-area2 input {
+  width: 100%;
+  padding: 20px 10px 10px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #999;
+  font-size: 18px;
+  color: black;
+  outline: none;
+}
+.int-area2 label {
+  position: absolute;
+  left: 10px;
+  top: 30px;
+  font-size: 15px;
+  color: #999;
+  transition: all 0.5s ease;
+}
+.int-area2 label.warning {
+  color: red !important;
+  animation: warning 0.3 ease;
+  animation-iteration-count: 3;
+}
+.int-area2 input:focus + label,
+.int-area2 input:valid + label {
+  top: 0px;
+  font-size: 13px;
+  color: black;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 99;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.modal > section1 {
+  width: 450px;
+  max-width: 700px;
+  margin: 0 auto;
+  border-radius: 0.3rem;
+  background-color: #fff;
+  /* 팝업이 열릴때 스르륵 열리는 효과 */
+  animation: modal-show 0.3s;
+  overflow: hidden;
+}
+
+.modal > section1 > header1 {
+  position: relative;
+  padding: 14px 290px 14px 22px;
+  top: -5px;
+  left: 5px;
+  border-radius: 10px;
+  background-color: #03d85e;
+  font-size: 17px;
+  font-weight: 400;
+  color: white;
+}
+.modal > section1 > header1 button {
+  position: absolute;
+  top: -5px;
+  right: 15px;
+  width: 30px;
+  font-size: 21px;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(69, 69, 69);
+  background-color: transparent;
+}
+
+.modal > section1 > footer button {
+  padding: 0px 12px;
+  border-radius: 5px;
+  font-size: 13px;
+  margin-top: 19px;
+  margin-bottom: 10px;
+  margin-left: 240px;
+}
+
+.passchange_btn {
+  padding: 0px 12px;
+  border-radius: 5px;
+  font-size: 13px;
+  position: absolute;
+  margin-left: 140px;
+  margin-top: 18px;
+}

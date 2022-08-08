@@ -1,0 +1,125 @@
+.regis_title {
+  font-size: 27px;
+  font-weight: 200;
+  margin-bottom: 20px;
+}
+.regis_title1 {
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+.regis-form {
+  margin: auto;
+}
+.int-area1 {
+  width: 350px;
+  position: relative;
+  margin-top: 20px;
+}
+.int-area1:first-child {
+  margin-top: 0;
+}
+.int-area1 input {
+  width: 100%;
+  padding: 20px 10px 10px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #999;
+  font-size: 18px;
+  color: black;
+  outline: none;
+}
+.int-area1 label {
+  position: absolute;
+  left: 10px;
+  top: 20px;
+  font-size: 15px;
+  color: #999;
+  transition: all 0.5s ease;
+}
+.int-area1 label.warning {
+  color: red !important;
+  animation: warning 0.3 ease;
+  animation-iteration-count: 3;
+}
+.int-area1 input:focus + label,
+.int-area1 input:valid + label {
+  top: 0;
+  font-size: 13px;
+  color: #03d85e;
+}
+
+/* -------버 튼--------- */
+
+.btn-area1 {
+  margin-top: 30px;
+}
+.btn-area1 button {
+  color: white;
+  width: 100%;
+  height: 50px;
+  background-color: #03d85e;
+  font-size: 20px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.btn-area1 button:focus {
+  outline: 0;
+}
+.btn-area1 button:active {
+  transform: scale(0.99);
+}
+
+.caption {
+  margin-top: 20px;
+  text-align: center;
+  float: left;
+  margin-left: 80px;
+}
+.caption a {
+  font-size: 15px;
+  color: #999;
+  text-decoration: none;
+}
+
+/* ---------에  러--------- */
+.regis-error {
+  font-size: 15px;
+  color: #f20e43b9;
+  margin-right: 120px;
+}
+.regis-error1 {
+  font-size: 15px;
+  color: #f20e43b9;
+  margin-right: 160px;
+}
+
+.regis-error3 {
+  font-size: 15px;
+  color: #f20e43b9;
+  margin-right: 95px;
+}
+
+/*-- 프로필 --*/
+div.profileimg {
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 160px;
+  overflow: hidden;
+  background-image: url(../profile.jpg);
+}
+
+img.user_profile {
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 160px;
+  overflow: hidden;
+  background-color: #ffffff00;
+}
+
+div.photo_icon {
+  margin-top: -0px;
+}
